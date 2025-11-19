@@ -132,7 +132,7 @@ npm start
 The application will be available at:
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8000
-- API Documentation: http://localhost:8000/docs
+
 
 ## Project Structure
 
@@ -206,10 +206,9 @@ finance-assistant/
    - "Show me my spending trends"
 3. The AI will analyze your financial data and provide detailed answers
 
-## API Documentation
 
-The API documentation is automatically generated and available at:
-http://localhost:8000/docs
+
+
 
 ### Key Endpoints
 
@@ -444,7 +443,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For issues, questions, or contributions:
 - Create an issue on GitHub
 - Review documentation in the docs/ directory
-- Check API documentation at /docs endpoint
+
 
 ## Acknowledgments
 
